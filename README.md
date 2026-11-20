@@ -13,7 +13,7 @@ npm run dev
 
 ## Arbeidsstatus 20. november 2026
 
-Første versjon er opprettet i `/Users/martinjohnsen/AI Prosjekter/Maxfit`, og Finder er åpnet i mappen. `npm run typecheck` og `npm run build` besto. Lokal forhåndsvisning kunne ikke startes fra agentens begrensede Terminal (`listen EPERM`), så visuell gjennomgang på mobil og PC gjenstår. Lokal Git-branch er `main`, koblet til det tomme GitHub-repositoriet `martiinjohnsen/maxfit`. Første commit er laget lokalt; push feilet fordi Terminal ikke kunne slå opp `github.com`. Koden er derfor ennå ikke på GitHub.
+Første versjon er opprettet i `/Users/martinjohnsen/AI Prosjekter/Maxfit`. `npm run typecheck` og `npm run build` besto. Koden ble lastet opp til `martiinjohnsen/maxfit` via VS Code som commit `174e717`. Vercel-prosjektet var først satt til rammeverk «Other» og feilet fordi det lette etter `public` som ferdig bygg. Rammeverket ble endret til Next.js, og produksjonsdeploy `5wuXzD8RcC3BPmvHF42s9QT5voi2` ble kontrollert til «Ready» 20. november 2026. Forsiden ble åpnet og vist på [maxfit-omega.vercel.app](https://maxfit-omega.vercel.app). Mobilvisningen og alle interaksjoner er ikke visuelt gjennomgått.
 
 ## Status og neste steg
 
